@@ -1,0 +1,364 @@
+[
+  {
+    "theme": "yourPast",
+    "question": "How did you learn your most valuable skill?",
+    "subQuestion": [
+      "Who taught you it?",
+      "Why is this skill so important?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "subQuestion": [
+      "What did you learn from your encounter(s) with them?"
+    ],
+    "question": "Who is the most challenging opponent you have ever faced?"
+  },
+  {
+    "theme": "yourPast",
+    "question": "What is the worst mistake you have made in your time adventuring?",
+    "subQuestion": [
+      "Does it impact you today?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "What is the best meal you have ever had?",
+    "subQuestion": [
+      "Who did you share it with?",
+      "What made it unforgettable?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "Which of your skills have you struggled the most to master?",
+    "subQuestion": [
+      "How and why did you doubt yourself in the learning process?",
+      "What made it finally click?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "Which of your scars do you think looks the coolest?",
+    "subQuestion": [
+      "What's the story behind it?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "Where have you lived the longest?",
+    "subQuestion": [
+      "What kept you there so long?",
+      "Would you want to go back?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "What is the most critical lesson you have learned from a close friend or family member?",
+    "subQuestion": [
+      "Did you learn this lesson in one event or over time?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "Are there any memories from your past that you would like to let go of?",
+    "subQuestion": [
+      "Why do you struggle to do that?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "What is the best compliment you have ever received?",
+    "subQuestion": [
+      "Who gave it to you?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "What is the worst insult you have ever suffered?",
+    "subQuestion": [
+      "What did you do in response to it?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "What was the worst job you ever had?",
+    "subQuestion": [
+      "What made it so awful?",
+      "What did it teach you?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "What mistake have you made that ended up benefitting you?",
+    "subQuestion": [
+      "Has this mistake changed the way you handle issues today?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "Who outside of your immediate family and companions has had the biggest positive impact on your life?",
+    "subQuestion": [
+      "Do they know they impacted you?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "In your family, who was the odd one out?",
+    "subQuestion": [
+      "What was your relationship with them?",
+      "If it was you, who in your family was closest to you?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "Where do you think of when you hear the word \"home\"?",
+    "subQuestion": [
+      "Do you believe you will ever return to or reach that place?",
+      "Why?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "When was the last time you cried in front of someone?",
+    "subQuestion": [
+      "What made you cry?",
+      "How did they react?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "What was the last thing you tried that you unexpectedly loved?",
+    "subQuestion": [
+      "Did that open you up to other experiences?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "What secret do you have that you've considered too embarrassing to share until now?",
+    "subQuestion": [
+      "Does it still embarrass you?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "What change have you made in your life that brings you pride?",
+    "subQuestion": [
+      "How does it impact you on a day-to-day basis?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "What was your first heartbreak like?",
+    "subQuestion": [
+      "Who was it with?",
+      "Have you ever broken someone else's heart?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "When was the last time you were deceived or betrayed?",
+    "subQuestion": [
+      "What resulted from this negative experience?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "What act of generosity had the deepest impact on your life?",
+    "subQuestion": [
+      "Have you paid it forward, and if not, will you?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "What crime have you committed?",
+    "subQuestion": [
+      "Did you experience any consequences for it?"
+    ]
+  },
+  {
+    "theme": "yourPast",
+    "question": "Outside the tools of your trade, what is a personal effect that you carry that means something to you?",
+    "subQuestion": [
+      "Where did you get it?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "What do you consider your most useless talent to be?",
+    "subQuestion": [
+      "What makes you think it's useless?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "Which aspects of your daily routine do you look forward to the most?",
+    "subQuestion": [
+      "Why do you enjoy these things so much?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "What is a pet peeve that can instantly irritate you?",
+    "subQuestion": [
+      "How do you react?",
+      "How would you prefer to react?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "Do you believe more in fate or free will?",
+    "subQuestion": [
+      "Why?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "Do you consider yourself an optimist or a pessimist?",
+    "subQuestion": [
+      "How does this perspective guide you when taking risks?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "What is something about yourself that you are sure will never change?",
+    "subQuestion": [
+      "Has it ever been truly tested?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "At the end of your life, would you rather be proud of your accomplishments or integrity?",
+    "subQuestion": [
+      "What makes you feel that way?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "What superstitions do you keep?",
+    "subQuestion": [
+      "Do you feel compelled to impost them on others?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "What do you feel has more value science or art?",
+    "subQuestion": [
+      "Why?",
+      "Describe a world without your choice in it."
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "Which do you value more vengeance or forgiveness?",
+    "subQuestion": [
+      "How does this value impact your day-to-day life?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "What form of art connects with you the most?",
+    "subQuestion": [
+      "When you seek it out, how do you prefer to enjoy it?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "Apart from wealth and renown, what satisfaction have you found in the life of an adventurer?",
+    "subQuestion": [
+      "What type of reward would you like to see more frequently?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "What is a significant item you own that: is new, was handed down, or you made?",
+    "subQuestion": [
+      ""
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "I could never raise my hand against someone who...",
+    "subQuestion": [
+      "Why?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "I could never forgive someone who...",
+    "subQuestion": [
+      "Why?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "What sort of law do you believe is: permissible to break? Should never be broken?",
+    "subQuestion": [
+      ""
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "What is your favourite way to travel?",
+    "subQuestion": [
+      "Why do you find it appealing?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "Do you ever think about the possibility of an afterlife?",
+    "subQuestion": [
+      "Does what you believe about an afterlife impact your decisions?",
+      "How does this tie into your spiritual or religious beliefs?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "What quality do you most admire in others?",
+    "subQuestion": [
+      "Do you think you possess that quality?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "Do you find it more difficult to be proven wrong or found not to know something?",
+    "subQuestion": [
+      "Why?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "What is something you are proud of but have never told another person about?",
+    "subQuestion": [
+      "Is there a reason you've kept this to yourself?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "Do you have any weaknesses that you have come to accept or embrace?",
+    "subQuestion": [
+      "What has made you accept them?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "Do you have any opinions or views that you are afraid to share with others?",
+    "subQuestion": [
+      "What holds you back?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "Which days or times of year are significant to you?",
+    "subQuestion": [
+      "How do you observe or celebrate them?"
+    ]
+  },
+  {
+    "theme": "yourPresent",
+    "question": "What is something that you hope for despite knowing that it will likely never happen?",
+    "subQuestion": [
+      "Why is it unlikely?"
+    ]
+  }
+]

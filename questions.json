@@ -363,86 +363,310 @@
   },
   {
     "theme": "yourParty",
-    "question": "p1",
+    "question": "What is something small one of your party did to make your life better recently?",
+    "subQuestion": [
+      "Why did it stick out to you?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "What do you imagine your party are doing in one year, five years, or ten years?",
+    "subQuestion": [
+      "Where would they be?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Among your party, who would you prefer to marry, share a bed with for a night, and make wear soggy boots?",
     "subQuestion": [
       ""
     ]
   },
   {
     "theme": "yourParty",
-    "question": "p2",
+    "question": "Who among your party would you most like to change their style, and who would you trust to change your style?",
+    "subQuestion": [
+      "Why?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "What is something that you feel has become your responsibility within your group?",
+    "subQuestion": [
+      "Do you appreciate that?",
+      "How has it impacted you?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Who among your party do you worry most about losing?",
+    "subQuestion": [
+      "What do you think you would lose them to?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Who among your party do you wish would teach you a skill?",
+    "subQuestion": [
+      "What skill?",
+      "Why?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "What assumption did you make about one of your part when you first met them?",
+    "subQuestion": [
+      "What were you surprised to learn?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Which one of your party do you think has changed the most or given you the most to think about?",
+    "subQuestion": [
+      "How?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Choose one of your party and say how you would introduce them at a grand ball or gladiatorial arena.",
     "subQuestion": [
       ""
     ]
   },
   {
     "theme": "yourParty",
-    "question": "p3",
+    "question": "Who do you trust the most among your party?",
+    "subQuestion": [
+      "What have they done to inspire this trust?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Which companion have you been the angriest at?",
+    "subQuestion": [
+      "Why?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Name something you have be holding back from the group, hoping for an opportunity to tell them.",
+    "subQuestion": [
+      "Why have you waited?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "What would you want to do if you were to share a 'perfect day' with your party?",
+    "subQuestion": [
+      "Who would be the most excited about your plans?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "If you had the time, wealth, or power, what would you most like to do for one of your party?",
     "subQuestion": [
       ""
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Who in this group do you feel is the most optimistic, and most pessimistic?",
+    "subQuestion": [
+      ""
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Who in your life do you hope to one day introduce to your party?",
+    "subQuestion": [
+      "Do you think they would get along?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Which of your party would you turn to if you were faced with an embarrassing personal crisis?",
+    "subQuestion": [
+      "Why them?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Who in your group do you think will live the longest or die the soonest?",
+    "subQuestion": [
+      "Why?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "If you were in a disaster with one of your party and had to spend a long time waiting for rescue, who would you prefer being stuck with?",
+    "subQuestion": [
+      "Why?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "What is a line your companions must never cross in order to maintain a relationship with you?",
+    "subQuestion": [
+      "Who is the most likely to test this boundary?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "What makes this party unique?",
+    "subQuestion": [
+      "How does it compare to other parties you have been a part of?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Could you imagine travelling with another party after this one?",
+    "subQuestion": [
+      "What would you miss the most?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "What is something on of your party has done that makes you proud of or impressed by them?",
+    "subQuestion": [
+      "Have you ever told them?",
+      "Why or why not?"
+    ]
+  },
+  {
+    "theme": "yourParty",
+    "question": "Who among your party do you think knows you the least?",
+    "subQuestion": [
+      "What would you need in order to open up to them?"
     ]
   },
   {
     "theme": "yourGoals",
-    "question": "g1",
+    "question": "If you could move into your dream home today, what would it be like?",
     "subQuestion": [
-      ""
+      "Would you share your home with anyone?"
     ]
   },
   {
     "theme": "yourGoals",
-    "question": "g2",
+    "question": "If you could master any skill, what would it be?",
     "subQuestion": [
-      ""
+      "What would you use it for?"
     ]
   },
   {
     "theme": "yourGoals",
-    "question": "g3",
+    "question": "Do you have an end point or destination in mind for your journey?",
     "subQuestion": [
-      ""
+      "What would you do after you reached it?"
+    ]
+  },
+  {
+    "theme": "yourGoals",
+    "question": "Could you ever see yourself as a parent?",
+    "subQuestion": [
+      "What would you need to change about your life to consider starting a family?",
+      "Or why would you never want a family?"
+    ]
+  },
+  {
+    "theme": "yourGoals",
+    "question": "What is a dream you once had and what made you give up on it?",
+    "subQuestion": [
+      "Why did you want it in the first place?"
+    ]
+  },
+  {
+    "theme": "yourGoals",
+    "question": "What is an honour you would like to receive one day?",
+    "subQuestion": [
+      "Do you think you are on the path to attaining it?"
     ]
   },
   {
     "theme": "yourViews",
-    "question": "v1",
+    "question": "What monster would you love to keep as an unconventional pet?",
     "subQuestion": [
-      ""
+      "Why?"
     ]
   },
   {
     "theme": "yourViews",
-    "question": "v2",
+    "question": "Where have you always wanted to visit?",
     "subQuestion": [
-      ""
+      "What would you be most excited to do there?"
     ]
   },
   {
     "theme": "yourViews",
-    "question": "v3",
+    "question": "What place would you most like to return to?",
     "subQuestion": [
-      ""
+      "What draws you back?",
+      "Why?"
+    ]
+  },
+  {
+    "theme": "yourViews",
+    "question": "Who, in your opinion, was the greatest hero who ever lived?",
+    "subQuestion": [
+      "What made them special?"
+    ]
+  },
+  {
+    "theme": "yourViews",
+    "question": "Which city do you think is the most exciting in the world?",
+    "subQuestion": [
+      "What feature makes it stand out?",
+      "Would you fit in there?"
+    ]
+  },
+  {
+    "theme": "yourViews",
+    "question": "Which language or culture has always fascinated you?",
+    "subQuestion": [
+      "What more would you like to learn about it?"
     ]
   },
   {
     "theme": "yourThoughts",
-    "question": "t1",
+    "question": "If you became an evil overlord, what would your villainous plan be?",
     "subQuestion": [
-      ""
+      "How would you dress?",
+      "What would your stronghold be like?"
     ]
   },
   {
     "theme": "yourThoughts",
-    "question": "t2",
+    "question": "If you died tomorrow and became a ghost, who would you haunt?",
     "subQuestion": [
-      ""
+      "How would you go about haunting them?"
     ]
   },
   {
     "theme": "yourThoughts",
-    "question": "t3",
+    "question": "What is something that you would hate to do for real but find fun to imagine yourself doing?",
     "subQuestion": [
-      ""
+      "Why do you feel this way?"
+    ]
+  },
+  {
+    "theme": "yourThoughts",
+    "question": "What advice or warning would you give a younger version of yourself?",
+    "subQuestion": [
+      "How do you imagine it impacting your present-day life?"
+    ]
+  },
+  {
+    "theme": "yourThoughts",
+    "question": "If you lost one of your most essential abilities, how would you want to replace it?",
+    "subQuestion": [
+      "Who would you trust to teach you this new skill?"
+    ]
+  },
+  {
+    "theme": "yourThoughts",
+    "question": "If you could receive a prophecy to learn about one future event, what would it be?",
+    "subQuestion": [
+      "Why?"
     ]
   }
 ]
